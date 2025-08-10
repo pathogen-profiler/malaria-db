@@ -1,6 +1,7 @@
 {
     "db-schema-version": "1.0.0",
     "snpEff_db":"Plasmodium_falciparum_3D7",
+    "codon_table":"Standard",
     "species": "Plasmodium falciparum",
     "drugs":["chloroquine","mefloquine","pyrimethamine","sulfadoxine","artemisinin"],
     "geoclassification_order":["Oceania","South_America","Horn_of_Africa","Southeast_Asia","Western_Africa","Eastern_Africa","Africa"]

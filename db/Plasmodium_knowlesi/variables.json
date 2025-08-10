@@ -1,4 +1,5 @@
 {
     "snpEff_db":"Plasmodium_knowlesi_strain_A1_H",
+    "codon_table":"Standard",
     "species":"Plasmodium knowlesi"
 }

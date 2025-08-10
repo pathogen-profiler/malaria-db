@@ -1,5 +1,6 @@
 {
     "db-schema-version": "1.0.0",
     "snpEff_db": "Plasmodium_vivax_P01",
+    "codon_table":"Standard",
     "species":"Plasmodium vivax"
 }
